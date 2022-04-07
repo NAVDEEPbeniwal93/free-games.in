@@ -1,0 +1,69 @@
+h1 {
+    color: rgb(18, 192, 235);
+    margin: 30px 10px;
+    padding: 10px 50px ;
+   
+
+}
+
+ .header  {
+    border: solid;
+    
+}  
+
+.header{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #fafafa;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: rgb(185, 14, 153);
+}
+
+.menu{
+    margin: 30px ;
+    border: solid rgb(22, 19, 21);
+
+}
+
+.menu a{
+    margin-left: 10px;
+    
+}
+
+.item{
+    position: relative;
+}
+
+
